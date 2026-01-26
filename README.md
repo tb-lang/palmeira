@@ -1,2 +1,1 @@
-# palmeira
-Código da palmeira acessando a distância
+3
